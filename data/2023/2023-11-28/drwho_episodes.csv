@@ -54,11 +54,11 @@ revived,4,NA,196,10,Midnight,episode,2008-06-14,4.8,8.05,86,45
 revived,4,NA,197,11,Turn Left,episode,2008-06-21,4.11,8.09,88,50
 revived,4,NA,198a,12,The Stolen Earth,episode,2008-06-28,4.12,8.78,91,45
 revived,4,NA,198b,13,Journey's End,episode,2008-07-05,4.13,10.57,91,63
-revived,NA,NA,199,1,The Next Doctor,special,2008-12-25,4.14,13.1,86,60
-revived,NA,NA,200,2,Planet of the Dead,special,2009-04-11,4.15,9.75,88,60
-revived,NA,NA,201,3,The Waters of Mars,special,2009-11-15,4.16,10.32,88,60
-revived,NA,NA,202a,4,The End of Time – Part One,special,2009-12-25,4.17,12.04,87,60
-revived,NA,NA,202b,5,The End of Time – Part Two,special,2010-01-01,4.18,12.27,89,75
+revived,4,NA,199,1,The Next Doctor,special,2008-12-25,4.14,13.1,86,60
+revived,4,NA,200,2,Planet of the Dead,special,2009-04-11,4.15,9.75,88,60
+revived,4,NA,201,3,The Waters of Mars,special,2009-11-15,4.16,10.32,88,60
+revived,4,NA,202a,4,The End of Time – Part One,special,2009-12-25,4.17,12.04,87,60
+revived,4,NA,202b,5,The End of Time – Part Two,special,2010-01-01,4.18,12.27,89,75
 revived,5,NA,203,1,The Eleventh Hour,episode,2010-04-03,1.1,10.09,86,65
 revived,5,NA,204,2,The Beast Below,episode,2010-04-10,1.2,8.42,86,45
 revived,5,NA,205,3,Victory of the Daleks,episode,2010-04-17,1.3,8.21,84,45
@@ -101,8 +101,8 @@ revived,7,NA,236,10,Journey to the Centre of the TARDIS,episode,2013-04-27,NA,6.
 revived,7,NA,237,11,The Crimson Horror,episode,2013-05-04,NA,6.47,85,45
 revived,7,NA,238,12,Nightmare in Silver,episode,2013-05-11,NA,6.64,84,45
 revived,7,NA,239,13,The Name of the Doctor,episode,2013-05-18,NA,7.45,88,45
-revived,NA,NA,240,1,The Day of the Doctor,special,2013-11-23,NA,12.8,88,77
-revived,NA,NA,241,2,The Time of the Doctor,special,2013-12-25,NA,11.14,83,60
+revived,7,NA,240,1,The Day of the Doctor,special,2013-11-23,NA,12.8,88,77
+revived,7,NA,241,2,The Time of the Doctor,special,2013-12-25,NA,11.14,83,60
 revived,8,NA,242,1,Deep Breath,episode,2014-08-23,NA,9.17,82,76
 revived,8,NA,243,2,Into the Dalek,episode,2014-08-30,NA,7.29,84,45
 revived,8,NA,244,3,Robot of Sherwood,episode,2014-09-06,NA,7.28,82,46
@@ -171,6 +171,6 @@ revived,13,Flux,297c,3,"Once, Upon Time",episode,2021-11-14,NA,4.7,75,49
 revived,13,Flux,297d,4,Village of the Angels,episode,2021-11-21,NA,4.57,79,56
 revived,13,Flux,297e,5,Survivors of the Flux,episode,2021-11-28,NA,4.83,77,50
 revived,13,Flux,297f,6,The Vanquishers,episode,2021-12-05,NA,4.64,76,59
-revived,NA,NA,298,1,Eve of the Daleks,special,2022-01-01,NA,4.4,77,58
-revived,NA,NA,299,2,Legend of the Sea Devils,special,2022-04-17,NA,3.47,76,48
-revived,NA,NA,300,3,The Power of the Doctor,special,2022-10-23,NA,5.3,82,87
+revived,14,NA,298,1,Eve of the Daleks,special,2022-01-01,NA,4.4,77,58
+revived,14,NA,299,2,Legend of the Sea Devils,special,2022-04-17,NA,3.47,76,48
+revived,14,NA,300,3,The Power of the Doctor,special,2022-10-23,NA,5.3,82,87

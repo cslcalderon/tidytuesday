@@ -12,7 +12,7 @@ revived,1,NA,164b,10,The Doctor Dances,episode,2005-05-28,1.1,6.86,85,45
 revived,1,NA,165,11,Boom Town,episode,2005-06-04,1.11,7.68,82,45
 revived,1,NA,166a,12,Bad Wolf,episode,2005-06-11,1.12,6.81,86,45
 revived,1,NA,166b,13,The Parting of the Ways,season finale,2005-06-18,1.13,6.91,89,45
-revived,2,NA,167,NA,The Christmas Invasion,special,2005-12-25,2X,9.84,84,60
+revived,2,NA,167,14,The Christmas Invasion,special,2005-12-25,2X,9.84,84,60
 revived,2,NA,168,1,New Earth,season start,2006-04-15,2.1,8.62,85,45
 revived,2,NA,169,2,Tooth and Claw,episode,2006-04-22,2.2,9.24,83,45
 revived,2,NA,170,3,School Reunion,episode,2006-04-29,2.3,8.31,85,45
@@ -26,7 +26,7 @@ revived,2,NA,175,10,Love & Monsters,episode,2006-06-17,2.10,6.66,76,45
 revived,2,NA,176,11,Fear Her,episode,2006-06-24,2.11,7.14,83,45
 revived,2,NA,177a,12,Army of Ghosts,episode,2006-07-01,2.12,8.19,86,45
 revived,2,NA,177b,13,Doomsday,season finale,2006-07-08,2.13,8.22,89,45
-revived,3,NA,178,NA,The Runaway Bride,special,2006-12-25,3X,9.35,84,60
+revived,3,NA,178,14,The Runaway Bride,special,2006-12-25,3X,9.35,84,60
 revived,3,NA,179,1,Smith and Jones,season start,2007-03-31,3.1,8.71,88,45
 revived,3,NA,180,2,The Shakespeare Code,episode,2007-04-07,3.2,7.23,87,45
 revived,3,NA,181,3,Gridlock,episode,2007-04-14,3.3,8.41,85,45
@@ -40,7 +40,7 @@ revived,3,NA,186,10,Blink,episode,2007-06-09,3.10,6.62,87,45
 revived,3,NA,187a,11,Utopia,episode,2007-06-16,3.11,7.84,87,45
 revived,3,NA,187b,12,The Sound of Drums,episode,2007-06-23,3.12,7.51,87,45
 revived,3,NA,187c,13,Last of the Time Lords,season finale,2007-06-30,3.13,8.61,88,52
-revived,4,NA,188,NA,Voyage of the Damned,special,2007-12-25,4X,13.31,86,72
+revived,4,NA,188,14,Voyage of the Damned,special,2007-12-25,4X,13.31,86,72
 revived,4,NA,189,1,Partners in Crime,season start,2008-04-05,4.1,9.14,88,50
 revived,4,NA,190,2,The Fires of Pompeii,episode,2008-04-12,4.3,9.04,87,50
 revived,4,NA,191,3,Planet of the Ood,episode,2008-04-19,4.2,7.50,87,45
@@ -72,7 +72,7 @@ revived,5,NA,210,10,Vincent and the Doctor,episode,2010-06-05,1.1,6.76,86,45
 revived,5,NA,211,11,The Lodger,episode,2010-06-12,1.11,6.44,87,45
 revived,5,NA,212a,12,The Pandorica Opens,episode,2010-06-19,1.12,7.57,88,50
 revived,5,NA,212b,13,The Big Bang,season finale,2010-06-26,1.13,6.7,89,55
-revived,6,NA,213,NA,A Christmas Carol,special,2010-12-25,2.X,12.11,83,60
+revived,6,NA,213,14,A Christmas Carol,special,2010-12-25,2.X,12.11,83,60
 revived,6,NA,214a,1,The Impossible Astronaut,season start,2011-04-23,2.1,8.86,88,45
 revived,6,NA,214b,2,Day of the Moon,episode,2011-04-30,2.2,7.30,87,45
 revived,6,NA,215,3,The Curse of the Black Spot,episode,2011-05-07,2.9,7.85,86,45
@@ -86,13 +86,13 @@ revived,6,NA,221,10,The Girl Who Waited,episode,2011-09-10,2.10,7.60,85,45
 revived,6,NA,222,11,The God Complex,episode,2011-09-17,2.11,6.77,86,50
 revived,6,NA,223,12,Closing Time,episode,2011-09-24,2.12,6.93,86,45
 revived,6,NA,224,13,The Wedding of River Song,season finale,2011-10-01,2.13,7.67,86,45
-revived,7,NA,225,NA,"The Doctor, the Widow and the Wardrobe",special,2011-12-25,NA,10.77,84,60
+revived,7,NA,225,14,"The Doctor, the Widow and the Wardrobe",special,2011-12-25,NA,10.77,84,60
 revived,7,NA,226,1,Asylum of the Daleks,season start,2012-09-01,NA,8.33,89,50
 revived,7,NA,227,2,Dinosaurs on a Spaceship,episode,2012-09-08,NA,7.57,87,45
 revived,7,NA,228,3,A Town Called Mercy,episode,2012-09-15,NA,8.42,85,45
 revived,7,NA,229,4,The Power of Three,episode,2012-09-22,NA,7.67,87,41
 revived,7,NA,230,5,The Angels Take Manhattan,episode,2012-09-29,NA,7.82,88,45
-revived,7,NA,231,NA,The Snowmen,special,2012-12-25,NA,9.87,87,60
+revived,7,NA,231,6,The Snowmen,special,2012-12-25,NA,9.87,87,60
 revived,7,NA,232,6,The Bells of Saint John,episode,2013-03-30,NA,8.44,87,45
 revived,7,NA,233,7,The Rings of Akhaten,episode,2013-04-06,NA,7.45,84,44
 revived,7,NA,234,8,Cold War,episode,2013-04-13,NA,7.37,84,45
@@ -115,7 +115,7 @@ revived,8,NA,250,9,Flatline,episode,2014-10-18,NA,6.71,85,43
 revived,8,NA,251,10,In the Forest of the Night,episode,2014-10-25,NA,6.92,83,45
 revived,8,NA,252a,11,Dark Water,episode,2014-11-01,NA,7.34,85,46
 revived,8,NA,252b,12,Death in Heaven,season finale,2014-11-08,NA,7.6,83,57
-revived,9,NA,253,NA,Last Christmas,special,2014-12-25,NA,8.28,82,60
+revived,9,NA,253,13,Last Christmas,special,2014-12-25,NA,8.28,82,60
 revived,9,NA,254a,1,The Magician's Apprentice,season start,2015-09-19,NA,6.54,84,46
 revived,9,NA,254b,2,The Witch's Familiar,episode,2015-09-26,NA,5.71,83,48
 revived,9,NA,255a,3,Under the Lake,episode,2015-10-03,NA,5.63,84,43
@@ -128,8 +128,8 @@ revived,9,NA,259,9,Sleep No More,episode,2015-11-14,NA,5.61,78,45
 revived,9,NA,260,10,Face the Raven,episode,2015-11-21,NA,6.05,84,47
 revived,9,NA,261,11,Heaven Sent,episode,2015-11-28,NA,6.19,80,54
 revived,9,NA,262,12,Hell Bent,episode,2015-12-05,NA,6.17,82,61
-revived,9,NA,263,NA,The Husbands of River Song,season finale,2015-12-25,NA,7.69,82,56
-revived,10,NA,264,NA,The Return of Doctor Mysterio,special,2016-12-25,NA,7.83,82,60
+revived,9,NA,263,13,The Husbands of River Song,season finale,2015-12-25,NA,7.69,82,56
+revived,10,NA,264,14,The Return of Doctor Mysterio,special,2016-12-25,NA,7.83,82,60
 revived,10,NA,265,1,The Pilot,season start,2017-04-15,NA,6.68,83,50
 revived,10,NA,266,2,Smile,episode,2017-04-22,NA,5.98,83,46
 revived,10,NA,267,3,Thin Ice,episode,2017-04-29,NA,5.61,84,44
@@ -142,7 +142,7 @@ revived,10,NA,273,9,Empress of Mars,episode,2017-06-10,NA,5.02,83,44
 revived,10,NA,274,10,The Eaters of Light,episode,2017-06-17,NA,4.73,81,42
 revived,10,NA,275a,11,World Enough and Time,episode,2017-06-24,NA,5.00,85,46
 revived,10,NA,275b,12,The Doctor Falls,season finale,2017-07-01,NA,5.30,83,60
-revived,10,NA,276,NA,Twice Upon a Time,special,2017-12-25,NA,7.92,81,60
+revived,10,NA,276,13,Twice Upon a Time,special,2017-12-25,NA,7.92,81,60
 revived,11,NA,277,1,The Woman Who Fell to Earth,season start,2018-10-07,NA,10.96,83,64
 revived,11,NA,278,2,The Ghost Monument,episode,2018-10-14,NA,9.00,82,49
 revived,11,NA,279,3,Rosa,episode,2018-10-21,NA,8.41,83,50
@@ -153,7 +153,7 @@ revived,11,NA,283,7,Kerblam!,episode,2018-11-18,NA,7.46,81,49
 revived,11,NA,284,8,The Witchfinders,episode,2018-11-25,NA,7.21,81,47
 revived,11,NA,285,9,It Takes You Away,episode,2018-12-02,NA,6.42,80,49
 revived,11,NA,286,10,The Battle of Ranskoor Av Kolos,season finale,2018-12-09,NA,6.65,79,50
-revived,11,NA,287,NA,Resolution,special,2019-01-01,NA,7.13,80,60
+revived,11,NA,287,13,Resolution,special,2019-01-01,NA,7.13,80,60
 revived,12,NA,288a,1,"Spyfall, Part 1",season start,2020-01-01,NA,6.89,82,59
 revived,12,NA,288b,2,"Spyfall, Part 2",episode,2020-01-05,NA,6.07,82,60
 revived,12,NA,289,3,Orphan 55,episode,2020-01-12,NA,5.38,77,46
@@ -164,13 +164,13 @@ revived,12,NA,293,7,Can You Hear Me?,episode,2020-02-09,NA,4.90,78,49
 revived,12,NA,294,8,The Haunting of Villa Diodati,episode,2020-02-16,NA,5.07,80,49
 revived,12,NA,295a,9,Ascension of the Cybermen,episode,2020-02-23,NA,4.99,81,49
 revived,12,NA,295b,10,The Timeless Children,season finale,2020-03-01,NA,4.69,82,65
-revived,12,NA,296,NA,Revolution of the Daleks,special,2021-01-01,NA,6.36,79,71
+revived,12,NA,296,11,Revolution of the Daleks,special,2021-01-01,NA,6.36,79,71
 revived,13,Flux,297a,1,The Halloween Apocalypse,season start,2021-10-31,NA,5.81,76,50
 revived,13,Flux,297b,2,War of the Sontarans,episode,2021-11-07,NA,5.13,77,59
 revived,13,Flux,297c,3,"Once, Upon Time",episode,2021-11-14,NA,4.7,75,49
 revived,13,Flux,297d,4,Village of the Angels,episode,2021-11-21,NA,4.57,79,56
 revived,13,Flux,297e,5,Survivors of the Flux,episode,2021-11-28,NA,4.83,77,50
 revived,13,Flux,297f,6,The Vanquishers,season finale,2021-12-05,NA,4.64,76,59
-revived,NA,NA,298,1,Eve of the Daleks,special,2022-01-01,NA,4.4,77,58
-revived,NA,NA,299,2,Legend of the Sea Devils,special,2022-04-17,NA,3.47,76,48
-revived,NA,NA,300,3,The Power of the Doctor,special,2022-10-23,NA,5.3,82,87
+revived,13,NA,298,1,Eve of the Daleks,special,2022-01-01,NA,4.4,77,58
+revived,13,NA,299,2,Legend of the Sea Devils,special,2022-04-17,NA,3.47,76,48
+revived,13,NA,300,3,The Power of the Doctor,special,2022-10-23,NA,5.3,82,87
